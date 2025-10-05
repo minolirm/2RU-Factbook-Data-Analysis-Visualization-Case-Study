@@ -59,7 +59,7 @@ This project was developed as part of a decision analysis and data visualization
 - Map visualization of student distribution by province  
 - Tabular analysis with top provinces represented  
 
-### 9. Custom Pages (New Insights)
+### 9. New Insights
 Created additional pages to explore:
 - **GPA Analysis:** Average GPA by year and student origin  
 - **Credentials vs. Origin:** Relationship between academic level and student type  
